@@ -1,5 +1,9 @@
 ### Hello! I'm Diego Tavares, I'm a Front End developer!
 
+I'm a Computer Science student, passionate about innovation, games and technology. Since I was little I've always tried to find out how games, programs and websites were made and nowadays that curiosity has made me a Front End Developer!
+
+I am a person who is not afraid of new challenges and is always open to them, interested in projects that can improve my knowledge and contribute to my personal and professional development. I adapt easily to new tools and I am in constant learning, always trying to keep up with the constantly evolving demands.
+
 🌱 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
 <div align="center">

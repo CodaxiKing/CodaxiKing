@@ -38,14 +38,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
 
-## Total de Visitas no perfil 16/05/2022 :detective: <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/CodaxiKing/count.svg" />
- </p>
-
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+## Total de Visitas no perfil 16/05/2022 :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/CodaxiKing/count.svg" />
+ </p>

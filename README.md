@@ -1,5 +1,6 @@
+### <div align="center"> Hello! I'm Diego Tavares, I'm a Front End developer!
+
 <div align="center">
-### Hello! I'm Diego Tavares, I'm a Front End developer!
 
  I'm a Computer Science student, passionate about innovation, games and technology. Since I was little I've always tried to find out how games, programs and websites were made and nowadays that curiosity has made me a Front End Developer!
 

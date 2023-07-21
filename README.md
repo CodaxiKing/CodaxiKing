@@ -1,15 +1,13 @@
 ### Hello! I'm Diego Tavares, I'm a Front End developer!
 
 <div align="center">
-Conheci HTML no dia 13 de Dezembro de 2019 por meio da Hcode e indicação pessoal e direta de @joaohcrangel para esse curso. Após o término do curso comecei a aprender independente, com pesquisas e estudos em documentações e vídeos. Comecei na área da programação a partir daí e fazendo pequenos projetos em HTML, CSS e um pouco de ExpressJS. Me especializei em front-end em 6/3/23. Depois de um tempo comecei a estudar JavaScript por conta própria com o auxílio da Hcode e seu curso. Mas enquanto isso já aplicava e estudava independente e usando técnicas para treinamento de Autodidata e aprendendo muito em comunidades online e cursos da Rocketseat e eventos online. Aprendi e comecei a aplicar mais ExpressJS e Firebase. Desde lá venho procurando aprender mais e mais de back-end e gerenciamento de banco de dados. Hoje uso NextJS, React, TailwindCSS, Prisma e MongoDB em meus projetos. Também tenho certificados cursos em Lógica Computacional e de Programação
-
-<div align="center"><br>
-
  I'm a Computer Science student, passionate about innovation, games and technology. Since I was little I've always tried to find out how games, programs and websites were made and nowadays that curiosity has made me a Front End Developer!
 
  I am a person who is not afraid of new challenges and is always open to them, interested in projects that can improve my knowledge and contribute to my personal and professional development. I adapt easily to new tools and I am in constant learning, always trying to keep up with the constantly evolving demands.
 
 🌱 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
+
+<div align="center"><br>
 
 <div align="center">
   <a href='[https://linkedin.com/in/ruanportella](https://www.linkedin.com/in/diego-tavares-09227518b/)'>

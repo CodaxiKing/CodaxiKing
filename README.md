@@ -1,5 +1,6 @@
-### Olá! Eu sou o Diego Tavares, sou desenvolvedor Front End!
+### Hello! I'm Diego Tavares, I'm a Front End developer!
 
+🌱 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
 <div align="center">
   <a href='[https://linkedin.com/in/ruanportella](https://www.linkedin.com/in/diego-tavares-09227518b/)'>
@@ -32,7 +33,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
-![SCSS](https://img.shields.io/badge/Sass-000?&sass&logo=sass)
 
 
 ### Tools

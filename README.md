@@ -1,4 +1,4 @@
-### <div align="center"> Hello! I'm Diego Tavares, I'm a Front End developer!
+### <div align="center"> Hello! I'm Diego Tavares, I'm a Front End developer!<div/>
 
 <div align="center">
 
@@ -7,6 +7,7 @@
  I am a person who is not afraid of new challenges and is always open to them, interested in projects that can improve my knowledge and contribute to my personal and professional development. I adapt easily to new tools and I am in constant learning, always trying to keep up with the constantly evolving demands.
 
 🌱 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
+<div/>
 
 
 <div align="center">

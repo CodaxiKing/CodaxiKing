@@ -1,4 +1,4 @@
-### Hello! I'm Diego Tavares, I'm a Front End developer!
+<h1>### Hello! I'm Diego Tavares, I'm a Front End developer!<h1/>
 
  I'm a Computer Science student, passionate about innovation, games and technology. Since I was little I've always tried to find out how games, programs and websites were made and nowadays that curiosity has made me a Front End Developer!
 
@@ -37,6 +37,11 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+
+## Total de Visitas no perfil 16/05/2022 :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/CodaxiKing/count.svg" />
+ </p>
 
 
 ### Tools

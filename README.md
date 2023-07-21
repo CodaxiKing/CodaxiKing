@@ -8,7 +8,6 @@
 
 🌱 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 
-<div align="center"><br>
 
 <div align="center">
   <a href='[https://linkedin.com/in/ruanportella](https://www.linkedin.com/in/diego-tavares-09227518b/)'>
@@ -50,7 +49,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
- ## Total de Visitas no perfil :detective: <br>
+ ## <div align="center">Total de Visitas no perfil :detective: <br>
 
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/CodaxiKing/count.svg" />

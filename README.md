@@ -45,7 +45,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## Total de Visitas no perfil 16/05/2022 :detective: <br>
+## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/CodaxiKing/count.svg" />
  </p>

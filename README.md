@@ -10,7 +10,7 @@
 
 🌱 I'm currently working on personal projects to improve my knowledge and trying to learn new technologies.
 <div/>
-
+ 
 
 <div align="center">
   <a href='[https://linkedin.com/in/ruanportella](https://www.linkedin.com/in/diego-tavares-09227518b/)'>

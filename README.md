@@ -13,7 +13,7 @@
  
 
 <div align="center">
-  <a href='[https://linkedin.com/in/ruanportella](https://www.linkedin.com/in/diego-tavares-09227518b/)'>
+  <a href='[https://linkedin.com/in/diego-tavares-melo](https://www.linkedin.com/in/diego-tavares-melo/)'>
   <img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'/>
   </a>
   <a href='[mailto:diegomelo437@gmail.com](https://www.instagram.com/diego.tavares.m/)'>
@@ -40,6 +40,7 @@
 
 ### Technologies
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)

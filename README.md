@@ -38,6 +38,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodaxiKing&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
+<br><h2></h2><br>
+
 ### Technologies
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

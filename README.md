@@ -14,10 +14,10 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/diego-tavares-melo">
-  <img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'/>
+  <img src='https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff'/>
   </a>
   <a href="mailto:diegomelo437@gmail.com">
-  <img src='https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail'/>
+  <img src='https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white'/>
   </a>
   <a href="https://www.instagram.com/diego.tavares.m/">
     <img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white'>

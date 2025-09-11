@@ -34,6 +34,7 @@
 <div>
   <a href="https://github.com/CodaxiKing">
   <img src= "https://github-readme-streak-stats-eight.vercel.app/?user=CodaxiKing&theme=radical&border_radius=4.7&show_icons=true&count_private=true" width="51%" alt="stats graph" />
+ <br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodaxiKing&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodaxiKing&layout=compact&langs_count=7&theme=blue-green"/>
 </div>

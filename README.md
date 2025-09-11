@@ -29,6 +29,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CodaxiKing&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
  </div>
 
+<br><h2></h2><br>
+
 <div>
   <a href="https://github.com/CodaxiKing">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodaxiKing&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>

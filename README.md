@@ -1,6 +1,6 @@
 
 
-### <div align="center">👋 Hello! I'm Diego Tavares, I'm a Front End developer!<div/>
+### <div align="center">👋 Hello! I'm a Front End developer!<div/>
 
 ---
 

@@ -8,6 +8,7 @@ on:
     branches: [main, master]
     paths:
       - '.github/workflows/profile-visuals.yml'
+      - '.github/scripts/github-stats.mjs'
 
 concurrency:
   group: profile-readme-writes
@@ -45,13 +46,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: CodaxiKing
 
+      - name: Generate GitHub stats card
+        run: node .github/scripts/github-stats.mjs CodaxiKing assets/github-stats.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Save generated visuals
         env:
           TARGET_BRANCH: ${{ github.event.repository.default_branch }}
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add assets/github-snake.svg assets/github-snake-dark.svg profile-3d-contrib/
+          git add assets/github-snake.svg assets/github-snake-dark.svg assets/github-stats.svg profile-3d-contrib/
           if git diff --cached --quiet; then
             echo 'Contribution visuals are unchanged.'
             exit 0

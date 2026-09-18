@@ -85,7 +85,7 @@ See my latest public activity on [GitHub](https://github.com/CodaxiKing).
 
 <div align="center">
   <a href="https://github.com/CodaxiKing?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodaxiKing&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=38BDF8&amp;icon_color=38BDF8" alt="Diego's GitHub statistics" width="480" />
+    <img src="./assets/github-stats.svg" alt="Diego's GitHub statistics" width="480" />
   </a>
   <p><a href="https://github.com/CodaxiKing?tab=repositories">Explore my repositories →</a></p>
 </div>

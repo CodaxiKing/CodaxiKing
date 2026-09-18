@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" role="img" aria-labelledby="title">
+  <title id="title">Diego Tavares's GitHub statistics</title>
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #38BDF8; }
+    .label { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #333333; }
+    .value { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #333333; }
+    .icon { fill: #38BDF8; }
+    @media (prefers-color-scheme: dark) {
+      .label, .value { fill: #C9D1D9; }
+    }
+  </style>
+  <text x="25" y="35" class="title">Diego Tavares's GitHub Stats</text>
+    <g transform="translate(25, 70)">
+      <circle cx="6" cy="-5" r="5" class="icon" />
+      <text x="22" y="0" class="label">Total Stars Earned:</text>
+      <text x="300" y="0" class="value">37</text>
+    </g>
+    <g transform="translate(25, 100)">
+      <circle cx="6" cy="-5" r="5" class="icon" />
+      <text x="22" y="0" class="label">Commits (last year):</text>
+      <text x="300" y="0" class="value">109</text>
+    </g>
+    <g transform="translate(25, 130)">
+      <circle cx="6" cy="-5" r="5" class="icon" />
+      <text x="22" y="0" class="label">Total PRs:</text>
+      <text x="300" y="0" class="value">61</text>
+    </g>
+    <g transform="translate(25, 160)">
+      <circle cx="6" cy="-5" r="5" class="icon" />
+      <text x="22" y="0" class="label">Total Issues:</text>
+      <text x="300" y="0" class="value">0</text>
+    </g>
+    <g transform="translate(25, 190)">
+      <circle cx="6" cy="-5" r="5" class="icon" />
+      <text x="22" y="0" class="label">Contributed to (last year):</text>
+      <text x="300" y="0" class="value">0</text>
+    </g>
+</svg>

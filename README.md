@@ -56,7 +56,7 @@ I enjoy turning ideas into interfaces, exploring new tools, and learning through
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=flat-square)
 ![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff&style=flat-square)
-
+2a\
 ## GitHub activity
 
 ### Contribution playground

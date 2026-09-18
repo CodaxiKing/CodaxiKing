@@ -1,0 +1,61 @@
+name: Generate profile visuals
+
+on:
+  schedule:
+    - cron: '41 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - '.github/workflows/profile-visuals.yml'
+
+concurrency:
+  group: profile-readme-writes
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  generate:
+    if: github.repository == 'CodaxiKing/CodaxiKing'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: CodaxiKing
+          outputs: |
+            assets/github-snake.svg?color_snake=#38bdf8
+            assets/github-snake-dark.svg?palette=github-dark&color_snake=#38bdf8
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: CodaxiKing
+
+      - name: Save generated visuals
+        env:
+          TARGET_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github-snake.svg assets/github-snake-dark.svg profile-3d-contrib/
+          if git diff --cached --quiet; then
+            echo 'Contribution visuals are unchanged.'
+            exit 0
+          fi
+          git commit -m 'docs: refresh contribution visuals'
+          git pull --rebase origin "$TARGET_BRANCH"
+          git push origin "HEAD:$TARGET_BRANCH"

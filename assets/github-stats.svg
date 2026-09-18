@@ -13,7 +13,7 @@
     <g transform="translate(25, 70)">
       <circle cx="6" cy="-5" r="5" class="icon" />
       <text x="22" y="0" class="label">Total Stars Earned:</text>
-      <text x="300" y="0" class="value">37</text>
+      <text x="300" y="0" class="value">35</text>
     </g>
     <g transform="translate(25, 100)">
       <circle cx="6" cy="-5" r="5" class="icon" />
@@ -23,7 +23,7 @@
     <g transform="translate(25, 130)">
       <circle cx="6" cy="-5" r="5" class="icon" />
       <text x="22" y="0" class="label">Total PRs:</text>
-      <text x="300" y="0" class="value">61</text>
+      <text x="300" y="0" class="value">1</text>
     </g>
     <g transform="translate(25, 160)">
       <circle cx="6" cy="-5" r="5" class="icon" />

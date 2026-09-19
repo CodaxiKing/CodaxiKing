@@ -13,12 +13,12 @@
     <g transform="translate(25, 70)">
       <circle cx="6" cy="-5" r="5" class="icon" />
       <text x="22" y="0" class="label">Total Stars Earned:</text>
-      <text x="300" y="0" class="value">35</text>
+      <text x="300" y="0" class="value">36</text>
     </g>
     <g transform="translate(25, 100)">
       <circle cx="6" cy="-5" r="5" class="icon" />
       <text x="22" y="0" class="label">Commits (last year):</text>
-      <text x="300" y="0" class="value">109</text>
+      <text x="300" y="0" class="value">115</text>
     </g>
     <g transform="translate(25, 130)">
       <circle cx="6" cy="-5" r="5" class="icon" />

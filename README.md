@@ -80,7 +80,7 @@ I enjoy turning ideas into interfaces, exploring new tools, and learning through
 ### Recent activity
 
 <!--START_SECTION:activity-->
-See my latest public activity on [GitHub](https://github.com/CodaxiKing).
+1. 🎉 Merged PR [#1](https://github.com/CodaxiKing/MOVA/pull/1) in [CodaxiKing/MOVA](https://github.com/CodaxiKing/MOVA)
 <!--END_SECTION:activity-->
 
 <div align="center">

@@ -80,7 +80,7 @@ I enjoy turning ideas into interfaces, exploring new tools, and learning through
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/CodaxiKing/MOVA/pull/1) in [CodaxiKing/MOVA](https://github.com/CodaxiKing/MOVA)
+1. 🗣 Commented on [#6](https://github.com/CodaxiKing/PetLive/pull/6#issuecomment-6351109349) in [CodaxiKing/PetLive](https://github.com/CodaxiKing/PetLive)
 <!--END_SECTION:activity-->
 
 <div align="center">
